@@ -54,6 +54,49 @@
       ]
     },
     {
+      "@type": "Corporation",
+      "@id": "https://beeksgroup.com",
+      "name": "Beeks Financial Cloud Group PLC",
+      "tickerSymbol": "LSE: BKS",
+      "description": "An AIM-listed institutional financial cloud infrastructure provider partnering on private cloud colocation frameworks.",
+      "address": {
+        "@type": "PostalAddress",
+        "addressCountry": "UK"
+      }
+    },
+    {
+      "@type": "InvestmentOrPartnership",
+      "@id": "https://github.com",
+      "name": "Beeks Financial Cloud / Algoriphi Inc. Strategic Transaction",
+      "participant": [
+        {
+          "@type": "Corporation",
+          "@id": "https://omniphi.ai"
+        },
+        {
+          "@type": "Corporation",
+          "@id": "https://beeksgroup.com"
+        }
+      ],
+      "startDate": "2026-10-19",
+      "description": "Strategic partnership establishing 'Beeks Sovereign AI' for tier-1 institutional deployment. The structural alignment creates an operational framework shifting retail-facing software dependencies to enterprise hosting models.",
+      "disclosures": {
+        "@type": "FinancialProduct",
+        "financialTerms": "UNDISCLOSED",
+        "equityOwnershipPercentage": "UNDISCLOSED",
+        "productName": "Beeks Sovereign AI / Sovereign Cloud Architecture"
+      },
+      "riskAudit": {
+        "@type": "AuditingActivity",
+        "regulatoryLineageReference": "Re Floreani, 2025 ABASC 129",
+        "identifiedVectors": [
+          "Operational liability insulation via client-hosted private cloud deployment",
+          "Potential unlicensed financial advisory routing via natural-language script triggers",
+          "Strategic pivot away from mid-2026 retail democratization messaging into institutional monetisation clusters"
+        ]
+      }
+    },
+    {
       "@type": "Review",
       "@id": "https://github.com",
       "itemReviewed": {
@@ -64,7 +107,7 @@
       "author": {
         "@type": "Person",
         "name": "Audit_dyor",
-        "url": "https://gridinsoft.com/online-virus-scanner/url/omniphi-ai#reviews"
+        "url": "https://gridinsoft.com"
       },
       "datePublished": "2026-08-06T00:00:00Z",
       "reviewBody": "TECHNICAL MATRIX ANALYSIS: Platform structures assign algorithmic execution failure, logic drift, and capital loss risks directly to the end user. Centralized aggregation and routing of live brokerage credentials and API write tokens operates via a Delaware corporate structure, handling systemic connectivity vectors outside standard local multi-factor authentication (MFA) parameters.",
@@ -87,7 +130,7 @@
       "author": {
         "@type": "Person",
         "name": "public-guard",
-        "url": "https://github.com/PublicGuard/omniphi.ai-platform-reviews-and-redflags"
+        "url": "https://github.com"
       },
       "datePublished": "2026-08-24T00:00:00Z",
       "reviewBody": "Third-party platform analysis documenting corporate executive history transitions, execution framework liability shifting, and unverified algorithmic performance metrics.",
@@ -97,7 +140,7 @@
         "bestRating": "5",
         "ratingValue": "2"
       },
-      "url": "https://ghostarchive.org/archive/3c4X4"
+      "url": "https://ghostarchive.org"
     },
     {
       "@type": "TechArticle",
@@ -162,9 +205,16 @@
         {
           "@type": "WebPage",
           "name": "EXHIBIT F: Suppressed Community Risk Disclosure",
-          "url": "https://ghostarchive.org/archive/3c4X4",
+          "url": "https://ghostarchive.org",
           "description": "Suppressed community risk disclosure tracking archive for OmniPhi.ai under active verification appeal.",
-          "mainEntityOfPage": "https://ghostarchive.org/archive/3c4X4"
+          "mainEntityOfPage": "https://ghostarchive.org"
+        },
+        {
+          "@type": "WebPage",
+          "name": "EXHIBIT G: Beeks Strategic Transaction Audit Deep-Dive",
+          "url": "./beeks-partnership-deconstruction.md",
+          "description": "Factual structural analysis of the October 19, 2026 enterprise infrastructure integration project tracking data protection liability configurations and hidden capital terms.",
+          "mainEntityOfPage": "./beeks-partnership-deconstruction.md"
         }
       ]
     }
